@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-boot-launcher",
+  "name": "cordova-plugin-boot-launcher-blueline",
   "version": "0.2.0",
   "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
   "description": "Cordova Plugin to automatically start the Cordova app when the device is booted.",
   "cordova": {
-    "id": "cordova-plugin-boot-launcher",
+    "id": "cordova-plugin-boot-launcher-blueline",
     "platforms": [
       "android"
     ]
