@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecrossley/cordova-plugin-boot-launcher.git"
+    "url": "git+https://github.com/landdigital/cordova-plugin-boot-launcher-blueline.git"
   },
   "keywords": [
     "cordova",
